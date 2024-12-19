@@ -5,10 +5,15 @@ The Event-Tracking App helps users manage and track their upcoming events easily
 # What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
 Key features of the app include:
 •	Login/Signup Screen: This screen lets users log into their accounts or create a new account if they use the app for the first time. The design should be simple and make both options easy to find.
+
 •	Event Details Table: This table will store important details about each event, such as the name, date, time, and description.
+
 •	Event Grid Screen: This screen shows all upcoming events in a grid format, allowing users to see their schedules quickly.
+
 •	Add/Delete Event Mechanism: Users should be able to add new events by entering relevant details (time, description, etc.) and remove events they no longer wish to track.
+
 •	Event Reminder System: A mechanism to send notifications to users on the day of the scheduled event, ensuring they are reminded on time.
+
 This application will help people manage their time better. It will be easy to use and well organized, focusing on user login, event management, clear displays of events, and timely notifications. The user-friendly design will guide users through the app, helping them manage events effectively. This will greatly improve the user experience by addressing the most important aspects of the application.
 
 # How did you approach the process of coding your app? What techniques or strategies did you use? How could those techniques or strategies be applied in the future?
